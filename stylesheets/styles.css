@@ -269,17 +269,8 @@ footer {
     color:#444;
   }
 }
-
-.center-pdf {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-}
-
 .center-image {
   display: flex;
   justify-content: center;
-  align-items: center;
   height: 100vh;
 }
