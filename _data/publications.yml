@@ -1,14 +1,14 @@
 main:
 
-  # - title: TrackOcc: Camera-based 4D Panoptic Occupancy Tracking
-  #   authors: <strong>Zhuoguang Chen*</strong>, Kenan Li*, Xiuyu Yang, Tao Jiang, Yiming Li, Hang Zhao†
-  #   conference_short: Under Review
-  #   conference: Under Review by ICRA2025.
-  #   pdf: https://github.com/zgchen33/TrackOcc_ICRA2025
-  #   code: https://github.com/zgchen33/TrackOcc_ICRA2025
-  #   bibtex: https://github.com/zgchen33/TrackOcc_ICRA2025
-  #   image: assets/img/24_trackocc.png
-  #   notes: 
+  - title: TrackOcc: Camera-based 4D Panoptic Occupancy Tracking
+    authors: <strong>Zhuoguang Chen*</strong>, Kenan Li*, Xiuyu Yang, Tao Jiang, Yiming Li, Hang Zhao†
+    conference_short: Under Review
+    conference: Under Review by ICRA2025.
+    pdf: https://github.com/zgchen33/TrackOcc_ICRA2025
+    code: https://github.com/zgchen33/TrackOcc_ICRA2025
+    bibtex: https://github.com/zgchen33/TrackOcc_ICRA2025
+    image: assets/img/24_trackocc.png
+    notes: 
 
  - title: End-to-end Video Gaze Estimation via Capturing Head-face-eye Spatial-temporal Interaction Context
     authors: <strong>Zhuoguang Chen*</strong>, Yiran Guan*, Wenzheng Zeng†, Zhiguo Cao, Yang Xiao†
