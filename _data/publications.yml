@@ -1,7 +1,7 @@
 main:
 
   - title: "TrackOcc: Camera-based 4D Panoptic Occupancy Tracking"
-    authors: <strong>Zhuoguang Chen*</strong>
+    authors: <strong>Zhuoguang Chen*</strong>, Yiran Guan*, Wenzheng Zeng†, Zhiguo Cao, Yang Xiao†
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
