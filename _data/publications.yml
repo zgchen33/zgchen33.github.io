@@ -1,6 +1,6 @@
 main:
 
-  - title: TrackOcc: Camera-based 4D Panoptic Occupancy Tracking
+  - title: 'TrackOcc: Camera-based 4D Panoptic Occupancy Tracking'
     authors: <strong>Zhuoguang Chen*</strong>, Kenan Li*, Xiuyu Yang, Tao Jiang, Yiming Li, Hang Zhao†
     conference_short: Under Review
     conference: Under Review by ICRA2025.
