@@ -16,7 +16,3 @@ I received my bachelor’s degree in Artificial Intelligence from Huazhong Unive
 
 - **[Sep. 2024]** Our work **TrackOcc: Camera-based 4D Panoptic Occupancy Tracking** has been finished and submitted to ICRA 2025.
 - **[Oct. 2023]** One paper about video gaze estimation has been accepted by IEEE SPL.
-
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
