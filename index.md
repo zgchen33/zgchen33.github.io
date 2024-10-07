@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a research assistant in [MARS Lab](https://group.iiis.tsinghua.edu.cn/~marslab/#/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), working under the supervision of Prof. [Hang Zhao](https://hangzhaomit.github.io/). I have been working closely with [Yiming Li](https://yimingli-page.github.io/) since Jul. 2023. I received my bachelor’s degree in Artificial Intelligence from [Huazhong University of Science and Technology](https://english.hust.edu.cn/) (HUST). I was a research student at HUST from Mar. 2022 to Jul. 2023, advised by Prof. [Yang Xiao](https://scholar.google.com.tw/citations?hl=zh-CN&user=NeKBuXEAAAAJ).
+I am currently a research assistant in [MARS Lab](https://group.iiis.tsinghua.edu.cn/~marslab/#/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), working under the supervision of Prof. [Hang Zhao](https://hangzhaomit.github.io/). Since July 2023, I have also been collaborating closely with [Yiming Li](https://yimingli-page.github.io/). I received my bachelor’s degree in Artificial Intelligence from [Huazhong University of Science and Technology](https://english.hust.edu.cn/) (HUST). I was a research student at HUST from Mar. 2022 to Jul. 2023, advised by Prof. [Yang Xiao](https://scholar.google.com.tw/citations?hl=zh-CN&user=NeKBuXEAAAAJ).
 
 ## Research Interests
 - **Autonomous Driving:** 3D Scene Understanding (e.g., Detection and Segmentation), Collaborative Perception and Prediction
