@@ -7,6 +7,7 @@ main:
     code: https://github.com/zgchen33/TrackOcc_ICRA2025
     bibtex: https://github.com/zgchen33/TrackOcc_ICRA2025
     image: assets/img/24_trackocc.png
+    note: As the Project Lead
   
   - title: End-to-end Video Gaze Estimation via Capturing Head-face-eye Spatial-temporal Interaction Context
     authors: <strong>Zhuoguang Chen*</strong>, Yiran Guan*, Wenzheng Zeng†, Zhiguo Cao, Yang Xiao†
