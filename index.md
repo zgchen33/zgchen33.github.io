@@ -9,7 +9,8 @@ I am currently a research assistant in [MARS Lab](https://group.iiis.tsinghua.ed
 ## Research Interests
 - **Autonomous Driving:** 3D Scene Understanding (e.g., Detection and Segmentation), Collaborative Perception and Prediction
 - **Embodied AI:** 3D Multimodal LLM, Embodied Navigation
-- **Machine Learning:** Multimodal Learning, Test-Time Adaptation, Robust and Efficient Algorithms
+- **Machine Learning:** Multimodal Learning, Test-Time Adaptation
+- **Safe and Trustworthy Traffic Systems**
 
 ## News
 
