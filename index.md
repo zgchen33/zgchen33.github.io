@@ -15,6 +15,6 @@ I am currently a research assistant in [MARS Lab](https://group.iiis.tsinghua.ed
 ## News
 
 - **[Sep. 2024]** Our work ''**TrackOcc: Camera-based 4D Panoptic Occupancy Tracking**'' has been finished and submitted to ICRA 2025.
-- **[Oct. 2023]** One paper about video gaze estimation has been accepted by IEEE SPL.
+- **[Nov. 2023]** One paper about video gaze estimation has been accepted by IEEE SPL.
 
 {% include_relative _includes/publications.md %}
