@@ -13,7 +13,7 @@ I am currently a research assistant in [MARS Lab](https://group.iiis.tsinghua.ed
 - **Safe and Trustworthy Traffic Systems**
 
 ## News
-
+- **[Jun. 2025]** Our work ''**LONG3R: Long Sequence Streaming 3D Reconstruction**'' has been accepted by ICCV 2025.
 - **[Jan. 2025]** Our work ''**TrackOcc: Camera-based 4D Panoptic Occupancy Tracking**'' has been accepted by ICRA 2025.
 - **[Nov. 2023]** One paper about video gaze estimation has been accepted by IEEE SPL.
 

@@ -1,13 +1,20 @@
 main:
 
+  - title: 'LONG3R: Long Sequence Streaming 3D Reconstruction'
+    authors: <strong>Zhuoguang Chen*</strong>, Minghui Qin*, Tianyuan Yuan*, Zhe Liu, Hang Zhao†
+    conference_short: ICCV
+    conference: International Conference on Computer Vision 2025
+    pdf: https://zgchen33.github.io/
+    code: https://zgchen33.github.io/
+    image: assets\img\25_LONG3R.png
+
   - title: 'TrackOcc: Camera-based 4D Panoptic Occupancy Tracking'
     authors: <strong>Zhuoguang Chen*</strong>, Kenan Li*, Xiuyu Yang, Tao Jiang, Yiming Li, Hang Zhao†
     conference_short: ICRA
     conference: 2025 IEEE International Conference on Robotics and Automation (ICRA 2025).
     pdf: https://arxiv.org/abs/2503.08471
     code: https://github.com/Tsinghua-MARS-Lab/TrackOcc
-    # bibtex: https://github.com/zgchen33/TrackOcc_ICRA2025
-    image: assets\img\TrackOccSuburban.gif
+    image: assets/img/TrackOccSuburban.gif
   
   - title: End-to-end Video Gaze Estimation via Capturing Head-face-eye Spatial-temporal Interaction Context
     authors: <strong>Zhuoguang Chen*</strong>, Yiran Guan*, Wenzheng Zeng†, Zhiguo Cao, Yang Xiao†
@@ -16,6 +23,6 @@ main:
     pdf: https://arxiv.org/pdf/2310.18131
     code: https://github.com/zgchen33/MCGaze
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:r9g5WMmHhxIJ:scholar.google.com/&output=citation&scisdr=ClGxy2E9EL_Ax8RW5og:AFWwaeYAAAAAZmRQ_ohEuUbGVZkhIle1Xtt2-lE&scisig=AFWwaeYAAAAAZmRQ_uTaVVJ5GgsGxdCHyAB6d1c&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    image: assets\img\MCGaze_demo.gif
+    image: assets/img/MCGaze_demo.gif
 
 
