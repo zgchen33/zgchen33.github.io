@@ -3,7 +3,7 @@ main:
   - title: 'LONG3R: Long Sequence Streaming 3D Reconstruction'
     authors: <strong>Zhuoguang Chen*</strong>, Minghui Qin*, Tianyuan Yuan*, Zhe Liu, Hang Zhao†
     conference_short: ICCV
-    conference: International Conference on Computer Vision 2025.
+    conference: International Conference on Computer Vision 2025 (ICCV 2025).
     pdf: https://zgchen33.github.io/
     code: https://zgchen33.github.io/
     image: assets\img\25_LONG3R.png
