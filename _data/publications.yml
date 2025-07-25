@@ -4,8 +4,8 @@ main:
     authors: <strong>Zhuoguang Chen*</strong>, Minghui Qin*, Tianyuan Yuan*, Zhe Liu, Hang Zhao†
     conference_short: ICCV
     conference: International Conference on Computer Vision 2025 (ICCV 2025).
-    pdf: https://zgchen33.github.io/
-    code: https://zgchen33.github.io/
+    pdf: https://arxiv.org/abs/2507.18255
+    code: https://github.com/zgchen33/LONG3R/
     image: assets\img\25_LONG3R.png
 
   - title: 'TrackOcc: Camera-based 4D Panoptic Occupancy Tracking'
