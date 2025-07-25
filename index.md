@@ -13,8 +13,8 @@ I am currently a research assistant in [MARS Lab](https://group.iiis.tsinghua.ed
 - **Safe and Trustworthy Traffic Systems**
 
 ## News
-- **[Jun. 2025]** **LONG3R** is accepted to ICCV 2025.
-- **[Jan. 2025]** **TrackOcc** is accepted to ICRA 2025.
+- **[Jun. 2025]** [**LONG3R**](https://zgchen33.github.io/LONG3R/) is accepted to ICCV 2025.
+- **[Jan. 2025]** [**TrackOcc**](https://github.com/Tsinghua-MARS-Lab/TrackOcc) is accepted to ICRA 2025.
 - **[Nov. 2023]** One paper about video gaze estimation has been accepted by IEEE SPL.
 
 {% include_relative _includes/publications.md %}
