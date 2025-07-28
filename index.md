@@ -6,6 +6,8 @@ layout: homepage
 
 I am currently a research assistant in [MARS Lab](https://group.iiis.tsinghua.edu.cn/~marslab/#/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), working under the supervision of Prof. [Hang Zhao](https://hangzhaomit.github.io/). Since July 2023, I have also been collaborating closely with [Yiming Li](https://yimingli-page.github.io/). I received my bachelor’s degree in Artificial Intelligence from [Huazhong University of Science and Technology](https://english.hust.edu.cn/) (HUST). I was a research student at HUST from Mar. 2022 to Jul. 2023, advised by Prof. [Yang Xiao](https://scholar.google.com.tw/citations?hl=zh-CN&user=NeKBuXEAAAAJ).
 
+**I am seeking a Ph.D. position starting in Fall 2026. If you are interested in my profile, please feel free to reach out.**
+
 ## Research Interests
 - **3D/4D Perception:** 3D/4D Scene Understanding, 3D/4D Reconstruction
 - **Embodied AI:** Embodied Navigation, 3D Multimodal LLM
