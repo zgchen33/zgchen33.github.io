@@ -1,5 +1,13 @@
 main:
 
+  - title: 'SLAM-Former: Putting SLAM into One Transformer'
+    authors: Yijun Yuan, <strong>Zhuoguang Chen</strong>, Kenan Li, Weibang Wang, Hang Zhao†
+    conference_short: arXiv
+    conference: arXiv preprint arXiv:2509.16909.
+    pdf: https://arxiv.org/abs/2509.16909
+    code: https://github.com/Tsinghua-MARS-Lab/SLAM-Former
+    image: assets\img\25_SLAM-Former.png
+
   - title: 'LONG3R: Long Sequence Streaming 3D Reconstruction'
     authors: <strong>Zhuoguang Chen*</strong>, Minghui Qin*, Tianyuan Yuan*, Zhe Liu, Hang Zhao†
     conference_short: ICCV

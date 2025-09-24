@@ -12,9 +12,10 @@ I am currently a research assistant in [MARS Lab](https://group.iiis.tsinghua.ed
 - **3D/4D Perception:** 3D/4D Scene Understanding, 3D/4D Reconstruction
 - **Embodied AI:** Embodied Navigation, 3D Multimodal LLM
 - **Machine Learning:** Multimodal Learning, Test-Time Adaptation
-- **Safe and Trustworthy Traffic Systems**
+<!-- - **Safe and Trustworthy Traffic Systems** -->
 
 ## News
+- **[Sep. 2025]** Our work [**SLAM-Former**](https://tsinghua-mars-lab.github.io/SLAM-Former/) is released.
 - **[Jun. 2025]** [**LONG3R**](https://zgchen33.github.io/LONG3R/) is accepted to ICCV 2025.
 - **[Jan. 2025]** [**TrackOcc**](https://github.com/Tsinghua-MARS-Lab/TrackOcc) is accepted to ICRA 2025.
 - **[Nov. 2023]** One paper about video gaze estimation has been accepted by IEEE SPL.
