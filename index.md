@@ -9,9 +9,9 @@ I am currently a research assistant in [MARS Lab](https://group.iiis.tsinghua.ed
 **I am seeking a Ph.D. position starting in Fall 2026. If you are interested in my profile, please feel free to reach out.**
 
 ## Research Interests
-- **3D/4D Perception:** 3D/4D Scene Understanding, 3D/4D Reconstruction
-- **Embodied AI:** Embodied Navigation, 3D Multimodal LLM
-- **Machine Learning:** Multimodal Learning, Test-Time Adaptation
+- **3D/4D Perception:** 3D/4D Scene Understanding, Reconstruction and Tracking
+- **Embodied AI:** Manipulation (VLA) and Locomotion, Autonomous Driving
+- **Others:** Multimodal Learning, 3D Multimodal LLM
 <!-- - **Safe and Trustworthy Traffic Systems** -->
 
 ## News
