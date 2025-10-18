@@ -24,6 +24,13 @@ main:
     code: https://github.com/Tsinghua-MARS-Lab/TrackOcc
     image: assets/img/TrackOccSuburban.gif
   
+  - title: 'DepthVLA: Enhancing Vision-Language-Action Models with Depth-Aware Spatial Reasoning'
+    authors: Tianyuan Yuan, Yicheng Liu, Chenhao Lu, <strong>Zhuoguang Chen</strong>, Tao Jiang, Hang Zhao†
+    conference_short: arXiv
+    conference: arXiv preprint arXiv:2510.13375.
+    pdf: https://arxiv.org/abs/2510.13375
+    image: assets\img\25_DepthVLA.png
+
   - title: End-to-end Video Gaze Estimation via Capturing Head-face-eye Spatial-temporal Interaction Context
     authors: <strong>Zhuoguang Chen*</strong>, Yiran Guan*, Wenzheng Zeng†, Zhiguo Cao, Yang Xiao†
     conference_short: IEEE SPL

@@ -15,6 +15,7 @@ I am currently a research assistant in [MARS Lab](https://group.iiis.tsinghua.ed
 <!-- - **Safe and Trustworthy Traffic Systems** -->
 
 ## News
+- **[Oct. 2025]** Our work [**DepthVLA**](https://arxiv.org/abs/2510.13375) is released.
 - **[Sep. 2025]** Our work [**SLAM-Former**](https://tsinghua-mars-lab.github.io/SLAM-Former/) is released.
 - **[Jun. 2025]** [**LONG3R**](https://zgchen33.github.io/LONG3R/) is accepted to ICCV 2025.
 - **[Jan. 2025]** [**TrackOcc**](https://github.com/Tsinghua-MARS-Lab/TrackOcc) is accepted to ICRA 2025.
