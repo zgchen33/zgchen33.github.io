@@ -10,7 +10,7 @@ I am currently a research assistant in [MARS Lab](https://group.iiis.tsinghua.ed
 
 ## Research Interests
 - **3D/4D Perception:** 3D/4D Scene Understanding, Reconstruction and Tracking
-- **Embodied AI:** Manipulation (including VLA), Embodied World Models and Autonomous Driving
+- **Embodied AI:** Manipulation (*e.g.,* VLA), Embodied World Models and Autonomous Driving
 - **Others:** Multimodal Learning, 3D Multimodal LLM
 <!-- - **Safe and Trustworthy Traffic Systems** -->
 
